@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex egpaper_final"] 1625392895 "egpaper_final.aux" "egpaper_final.bbl" "egpaper_final" 1625474349
+["bibtex egpaper_final"] 1625392895 "egpaper_final.aux" "egpaper_final.bbl" "egpaper_final" 1625474499
   "./ieee.bst" 1624939858 19622 bce53be7be0d119a69bb0dd735757146 ""
   "egbib.bib" 1625392895 71729 f0af8e891698ac798abffd1325c11479 ""
-  "egpaper_final.aux" 1625474349 4543 178afc7ed332c1fd04b7bd1b10dc42a4 "pdflatex"
+  "egpaper_final.aux" 1625474499 4543 178afc7ed332c1fd04b7bd1b10dc42a4 "pdflatex"
   (generated)
-  "egpaper_final.blg"
   "egpaper_final.bbl"
-["pdflatex"] 1625474346 "e:/Latex/CVPR 2018 Template/egpaper_final.tex" "egpaper_final.pdf" "egpaper_final" 1625474349
+  "egpaper_final.blg"
+["pdflatex"] 1625474497 "e:/Latex/CVPR 2018 Template/egpaper_final.tex" "egpaper_final.pdf" "egpaper_final" 1625474499
   "C:/Users/Safri/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1624978244 9395663 4b4397218b9ba53fd5421aa592d42e1e ""
   "C:/Users/Safri/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1624978240 82507 a9eef8696c92627b87e9975edea03b2a ""
   "F:/Profession/MiTex/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -121,12 +121,12 @@
   "F:/Profession/MiTex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "cvpr.sty" 1624939858 8185 1f09b4535924bf997f66357aa9ee3654 ""
   "cvpr_eso.sty" 1624939858 3878 6aa7c08ff2621006e0603349e40a30a8 ""
-  "e:/Latex/CVPR 2018 Template/egpaper_final.tex" 1625474346 19660 6176458fa108296e4311001cf404775f ""
-  "egpaper_final.aux" 1625474349 4543 178afc7ed332c1fd04b7bd1b10dc42a4 "pdflatex"
+  "e:/Latex/CVPR 2018 Template/egpaper_final.tex" 1625474496 19664 2a02f6a2c8920c920c71e5e5316ecd3e ""
+  "egpaper_final.aux" 1625474499 4543 178afc7ed332c1fd04b7bd1b10dc42a4 "pdflatex"
   "egpaper_final.bbl" 1625392896 817 cb520a74d99e0267a7364b84d15eed09 "bibtex egpaper_final"
-  "egpaper_final.tex" 1625474346 19660 6176458fa108296e4311001cf404775f ""
+  "egpaper_final.tex" 1625474496 19664 2a02f6a2c8920c920c71e5e5316ecd3e ""
   "eso-pic.sty" 1624939858 9460 d2935ae95b5cd343fcf5887ff530288d ""
   (generated)
-  "egpaper_final.log"
   "egpaper_final.pdf"
+  "egpaper_final.log"
   "egpaper_final.aux"
