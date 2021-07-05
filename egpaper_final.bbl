@@ -1,0 +1,39 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{RN605}
+L.~C. Chen, G.~Papandreou, I.~Kokkinos, K.~Murphy, A.~L. J. I. T. o. P.~A.
+  Yuille, and M.~Intelligence.
+\newblock Deeplab: Semantic image segmentation with deep convolutional nets,
+  atrous convolution, and fully connected crfs.
+\newblock 40(4):834--848, 2018.
+
+\bibitem{RN633}
+K.~He, G.~Gkioxari, P.~Dollar, R.~Girshick, and Ieee.
+\newblock {\em Mask R-CNN}, pages 2980--2988.
+\newblock IEEE International Conference on Computer Vision. 2017.
+
+\bibitem{RN636}
+J.~Long, E.~Shelhamer, T.~Darrell, and Ieee.
+\newblock {\em Fully Convolutional Networks for Semantic Segmentation}, pages
+  3431--3440.
+\newblock IEEE Conference on Computer Vision and Pattern Recognition. 2015.
+
+\bibitem{RN607}
+O.~Ronneberger, P.~Fischer, and T.~Brox.
+\newblock U-net: Convolutional networks for biomedical image segmentation.
+\newblock In {\em International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}.
+
+\bibitem{zhang2019effective}
+P.~{Zhang}, F.~{Wang}, G.~{Teodoro}, Y.~{Liang}, M.~{Roy}, D.~J. {Brat}, and
+  J.~{Kong}.
+\newblock Effective nuclei segmentation with sparse shape prior and dynamic
+  occlusion constraint for glioblastoma pathology images.
+\newblock {\em Journal of medical imaging}, 6(1):17502, 2019.
+
+\bibitem{RN634}
+H.~Zhao, J.~Shi, X.~Qi, X.~Wang, J.~Jia, and Ieee.
+\newblock {\em Pyramid Scene Parsing Network}, pages 6230--6239.
+\newblock IEEE Conference on Computer Vision and Pattern Recognition. 2017.
+
+\end{thebibliography}
